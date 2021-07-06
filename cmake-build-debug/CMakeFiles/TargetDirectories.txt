@@ -1,0 +1,3 @@
+C:/Users/PC/CLionProjects/Trabajo funciones/cmake-build-debug/CMakeFiles/Trabajo_funciones.dir
+C:/Users/PC/CLionProjects/Trabajo funciones/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/CLionProjects/Trabajo funciones/cmake-build-debug/CMakeFiles/rebuild_cache.dir
